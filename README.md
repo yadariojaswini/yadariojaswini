@@ -1,4 +1,4 @@
-- 👋 Hi, I’m OJASWINI YADARI
+- Hi, I’m OJASWINI YADARI <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 - 👀 I’m interested in solving real-time problems
 - 🌱 I’m currently indulged in a training section - Tekworks
 - 💞️ I’m looking to collaborate on ...
