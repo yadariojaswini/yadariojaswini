@@ -1,7 +1,6 @@
 - # Hello, I am OJASWINI YADARI <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 - 👀 I’m interested in solving real-time problems
 
-Of course! Here's a softer, cuter, and more delicate version:
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　⠀　　　　　　✦ 　　　　　,　　　　　　　.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🌳
 　　　　　　*　　　　　　　　　　　.
