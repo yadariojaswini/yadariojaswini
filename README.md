@@ -1,5 +1,4 @@
 - # Hello, I am OJASWINI YADARI <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
-- 👀 I’m interested in solving real-time problems
 
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　⠀　　　　　　✦ 　　　　　,　　　　　　　.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🌳
@@ -20,11 +19,11 @@
 ⠀⠀⠀⠀⠀⠀🌻
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🌱⠀⠀⠀⠀🌷
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🌸
-- 🌱 I’m currently indulged in a training section - Tekworks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- # I'm engaged in exciting Machine Learning and NLP projects.
+- # I'm exploring Python adn Nest.js to enhance my skill set.
+- # I thrive in the late hours, always driven and constantly learning in the tech world.
+- # I'm interested in solving real time problems...!!
+
 
 <!---
 yadariojaswini/yadariojaswini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
